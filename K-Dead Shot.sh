@@ -1,6 +1,6 @@
 #!/bin/bash
 # K-Dead Shot v1.0
-# Powered by Kamaldeep Singh
+# Powered by predator0x300
 
 trap 'printf "\n";stop' 2
 
@@ -19,7 +19,7 @@ printf "                                                                        
 printf "                                                                                                            \e[1;77m/||\    \e[0m\n"
 printf "                                                                                               \e[1;77m            / || \        \e[0m\n"
 printf "                                                                                                 \e[1;77m        === == ===        \e[0m\n"
-printf "                                            \e[1;34m {{{---Coded By Kamaldeep Singh---}}} \e[0m \n"
+printf "                                            \e[1;34m {{{---Coded By predator0x300---}}} \e[0m \n"
 printf "                                   \e[1;92m {{{---Kamaldeepsingh9821@gmail.com | K-Dead Shot---}}} \e[0m \n"
 printf "                                   \e[1;42m {{{---Kamaldeepsingh9821@gmail.com | K-Dead Shot---}}} \e[0m \n"
 
