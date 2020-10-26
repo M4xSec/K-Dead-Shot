@@ -31,7 +31,7 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Khacker1024/K-Dead Shot
+git clone https://github.com/predator0x300/K-Dead Shot
 cd K-Dead Shot
 bash ./'K-Dead Shot.sh'
 ```
